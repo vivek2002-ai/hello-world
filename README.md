@@ -1,2 +1,6 @@
 # hello-world
-New repository
+
+Hi Friends!
+
+Vivek is here ,started github though late but finally done.
+
